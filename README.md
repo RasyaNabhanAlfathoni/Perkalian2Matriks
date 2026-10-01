@@ -104,9 +104,9 @@ C = [ 19  22 ]
 ## 📂 Struktur Repository
 
 ```text
-perkalian-matriks/
+proyek_1/
 │
-├── perkalian_matriks.py
+├── perkalianMatriks.py
 └── README.md
 ```
 
